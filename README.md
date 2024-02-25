@@ -3,7 +3,7 @@ Implementation Of Run-Length Encoding on the contents of a text file using Singl
 
 Run-Length Encoding (RLE) compresses data by replacing repeated consecutive characters with a count-value pair. In my program:
 
-->Singly Linked List (SLL) is used to store characters.
+->Singly Linked List (SLL) is used to store characters read from input text file.
 
 ->Consecutive occurrences are counted within the list.
 
